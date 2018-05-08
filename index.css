@@ -1,0 +1,84 @@
+.logo {
+   
+    padding-left: 0;
+}
+
+.nav {
+    padding-right: 0;
+}
+
+
+section {
+    background-image: url("pictures/mainview.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    padding-top: 80px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.title h1 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 60px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold;
+    color: #0B57ED;
+    
+}
+
+.title h3 {
+    font-family: 'Playfair Display SC', serif;
+    font-size: 40px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: bold ;
+    color: #0B57ED;
+}
+
+.events_container {
+    margin-top: 20px;
+    padding-left: 10;
+    padding-right: 10;
+
+}
+
+.director {
+    text-align: justify;
+}
+
+
+
+.welcome-head {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.welcome-body {
+    font-size: 14px;
+}
+
+.feature_card {
+    border: 1px solid #ebebeb;
+    margin: 30px 20px;
+}
+
+@media screen and (min-width:768px) {
+    .navbar-brand {
+    padding-left: 530px;
+}
+
+.feature_card {
+    margin: 0;
+}
+
+.reg_login {
+    text-align: right;
+}
+}
+
