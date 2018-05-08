@@ -1,12 +1,29 @@
-.logo {
-   
-    padding-left: 0;
+body {
+    font-family: 'Playfair Display SC', serif;
 }
 
+.logo {
+   width: 250px;
+   height: 170px;
+   padding-top: 0;
+}
+
+.logo2 {
+   width: 200px;
+   height: 100px;
+   padding-top: 0;
+   
+}
+.navbar-brand {
+    padding: 0;
+}
 .nav {
     padding-right: 0;
 }
 
+.navbar {
+    margin: 0;
+}
 
 section {
     background-image: url("pictures/mainview.jpg");
@@ -21,10 +38,8 @@ section {
 }
 
 .title h1 {
-    font-family: 'Playfair Display SC', serif;
-    font-size: 60px;
-    width: 100%;
-    height: auto;
+    
+    font-size: 40px;
     text-align: center;
     font-weight: bold;
     color: #0B57ED;
@@ -32,10 +47,8 @@ section {
 }
 
 .title h3 {
-    font-family: 'Playfair Display SC', serif;
-    font-size: 40px;
-    width: 100%;
-    height: auto;
+    font-size: 30px;
+    
     text-align: center;
     font-weight: bold ;
     color: #0B57ED;
@@ -43,42 +56,91 @@ section {
 
 .events_container {
     margin-top: 20px;
-    padding-left: 10;
-    padding-right: 10;
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
 
 .director {
     text-align: justify;
+    font-size: 16px;
+    padding-top: 20px;
+}
+
+.welcome-head {
+    text-align: center;
+    font-size: 20px; 
+    font-weight: bold;
+   
 }
 
 
 
-.welcome-head {
+.welcome_head {
     font-size: 18px;
     font-weight: bold;
 }
 
-.welcome-body {
+.welcome_body {
     font-size: 14px;
+    
 }
 
 .feature_card {
     border: 1px solid #ebebeb;
     margin: 30px 20px;
 }
+.navbar_brand {
+    padding: 0;
+}
+
+.gallery {
+    text-align: center;
+    font-size: 30px;
+}
+
+.col-mid-3 {
+    font-size: 20px;
+}
+
+
 
 @media screen and (min-width:768px) {
-    .navbar-brand {
-    padding-left: 530px;
-}
+
 
 .feature_card {
     margin: 0;
 }
 
-.reg_login {
+.nav_button {
     text-align: right;
+    padding-left: 30px;
+    padding-right: 0;
 }
 }
 
+#carousel-example-generic {
+    padding-top: 20px;
+    border: 1px solid #ebebeb;
+    margin: 30px 30px;
+}
+
+@media screen and (max-width:767px) {
+    .logo {
+        width: 50px;
+        height: 50px;
+    }
+    .h1 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .logo2 {
+        width: 50px;
+        height: 50px;
+    }
+    .h1 {
+        font-size: 20px;
+    }
+}
