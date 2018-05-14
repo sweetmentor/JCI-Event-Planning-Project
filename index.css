@@ -2,11 +2,15 @@ body {
     font-family: 'Playfair Display SC', serif;
 }
 
-
+section {
+    background-image: url(pictures/jci-calgary.png)
+}
+    
 
 .logo {
-    width: 100%;
+    width: 400px;
     height:300px;
+    padding-left: 0;
 }
    
    
@@ -22,33 +26,16 @@ body {
     margin: 0;
 }
 
-section {
-        
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 360px;
-    padding-top: 0px;
-    transition: all .5s ease-in-out;
-    -moz-transition: all .5s ease-in-out;
-    -webkit-transition: all .5s ease-in-out;
-}
 
-.title h1 {
-    
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
-    color: #0B57ED;
-    
-}
+
+
 
 .title h3 {
     font-size: 30px;
-    
-    text-align: center;
+    padding-left: 10px;
+    text-align: left;
     font-weight: bold ;
-    color: #0B57ED;
+    color: #ffffff;
 }
 
 .events_container {
@@ -136,8 +123,5 @@ section {
         font-size: 20px;
     }
     
-    .title {
-        
-    }
 }
 
