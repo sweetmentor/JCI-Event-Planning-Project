@@ -1,5 +1,5 @@
 body {
-    font-family: 'Playfair Display SC', serif;
+    font-family: 'Alegreya', serif;
 }
 
 section {
@@ -26,6 +26,15 @@ section {
     margin: 0;
 }
 
+.reg_detail {
+    text-align: justify;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 50px;
+    
+    
+}
 
 
 
@@ -49,7 +58,7 @@ section {
     text-align: justify;
     font-size: 16px;
     padding-top: 20px;
-    text-transform: lowercase;
+    /*text-transform: lowercase;*/
 }
 
 .welcome-head {
@@ -108,7 +117,7 @@ section {
     padding-top: 20px;
     border: 1px solid #ebebeb;
     margin: 30px 30px;
-    text-transform: lowercase;
+    
 }
 
 .bg-primary {
