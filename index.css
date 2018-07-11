@@ -123,13 +123,13 @@ section {
 .bg-primary {
     text-align: center;
     padding-bottom: 10px;
-    
+    width: 100%;
 }
 
 @media screen and (max-width:767px) {
     
     .h1 {
-        font-size: 20px;
+        font-size: 18px;
     }
     
 }
