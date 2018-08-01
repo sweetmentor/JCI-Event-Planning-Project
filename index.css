@@ -49,7 +49,7 @@ body {
 .reg_detail {
     text-align: justify;
     font-size: 16px;
-    padding-top: 20px;
+    padding-top: 0px;
     padding-left: 30px;
     padding-right: 30px;
 }
@@ -167,6 +167,7 @@ footer {
     padding-bottom: 5px;
     background-color: #337ab7;
     bottom: 0px;
+   
 }
 
 
