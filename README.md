@@ -45,6 +45,10 @@ Google Chrome and Safari
 * Pages were inspected to test responsiveness for best user experience both on desktop and mobile devices.
 * All the links external to the site were also tested to ensure that they actually landed on the expected pages.
 
+## Deployment
+
+The project is hosted on GitHub and deployed directly from the master branch. It was previosly published as GitHub pages until its adoption by the organisation and now published at www.jcinnatcon2018.com but still from master branch on GitHub. 
+
 ## Credits
 
 ### Media
