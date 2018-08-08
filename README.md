@@ -25,7 +25,7 @@ Users can easy manouver around the site via different types of devices and deskt
 
 ## Features Left to Implement
 
-* I would love to implement a secure member section if this is not a basic static project. 
+* I would have love to implement a secure member section if the project was not  restricted to a basic static website. 
 
 ## Tech Used
 
@@ -47,7 +47,7 @@ Google Chrome and Safari
 
 ## Deployment
 
-The project is hosted on GitHub and deployed directly from the master branch. It was previosly published as GitHub pages until its adoption by the organisation and now published at www.jcinnatcon2018.com but still from master branch on GitHub. 
+The project is hosted on GitHub and deployed directly from the master branch. It was previosly published as GitHub pages until its adoption by the organisation and now published at www.jcinnatcon2018.com but still from the same master branch on GitHub. 
 
 ## Credits
 
