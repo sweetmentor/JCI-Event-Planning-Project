@@ -57,4 +57,4 @@ The project is hosted on GitHub and deployed directly from the master branch. It
 
 ### Codes
 
-* Some of the codes used for this project are results of google search and classroom based work adapted to meet the project need.
+* Carousel codes used for this project is from bootstrap adapted to meet the project need.
