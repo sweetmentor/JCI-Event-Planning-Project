@@ -11,7 +11,7 @@ The website is basically to inform the public about the upcoming organisation Na
 
 ## UX
 It was a desire by the organisation to have a mobile friendly event planning website and this helped in choosing a mobile first design for the project. The layout was planned using balsamiq wireframing uploaded in wireframe folder and on this [link](https://balsamiq.cloud/st8pqbr/py93qxc) for a limited time.
-Users can easy manouver around the site via different types of devices and desktop. Index.html been the home page can lead the users either to register for the event, reserve hotel for the event or basically look for more information on the event.
+Users can easy manouver around the site via different types of devices and desktop. Index.html been the home page can lead the users either to register for the event, reserve hotel for the event or basically look for more information on the event. All external links on this project works instead of using target="_blank" because its now a live project.
 
 ## Features
 
